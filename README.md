@@ -1,16 +1,13 @@
-# flutter_application_1
+Aplicación móvil para intercambio y préstamo de libros usados, desarrollada con Flutter y conectada a la API de ATIUM.
 
-A new Flutter project.
+✨ Características Principales
+Registro e inicio de sesión de usuarios
 
-## Getting Started
+Catálogo de libros disponibles
 
-This project is a starting point for a Flutter application.
+Búsqueda con filtros (género, ubicación, condición)
 
-A few resources to get you started if this is your first Flutter project:
+Perfil de usuario con historial
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tecnologías Utilizadas
+Flutter (Framework principal)
